@@ -1,8 +1,10 @@
 
 Signal Sticker Pack
 
-Current URL, v6
+Current URL, v7
 
-https://signal.art/addstickers/#pack_id=efb90e4a5d171fdcd7890f7bd02f3ad0&pack_key=b98bae962b0afaa30f9daa5dca1eb2511a160b9b18166bd002e21b664999eb1a
+https://signal.art/addstickers/#pack_id=ba1087b68ec08da6f24b5343fd672d4b&pack_key=57afe8ef214362e4afcbca240c04c7fdb0bc9ca8a15dba4268cd3a8ffb99ba1a
+
+
 
 
