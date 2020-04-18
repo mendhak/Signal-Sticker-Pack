@@ -1,5 +1,5 @@
 
-Signal Sticker Pack
+mendhak's Signal Sticker Pack
 
 Current URL, v8
 
