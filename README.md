@@ -1,9 +1,9 @@
 
-mendhak's Signal Sticker Pack
+mendhak's Signal Sticker Pack v9
 
-Current URL, v8
+v9: https://signal.art/addstickers/#pack_id=143047bd981f147eea35b5acbc2691fa&pack_key=d8ef2895f2a5fb9e3616d8d5005e09649dadfd1350bcf849728ed4aa1db3d571
 
-https://signal.art/addstickers/#pack_id=9edd2e0942c489a49e05fdc1b242962f&pack_key=ea61e2f939a8882a79919cbe032d1ece98540c197e09f8b51cceaea3ae7641c5
+
 
 
 
