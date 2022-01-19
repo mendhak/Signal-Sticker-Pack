@@ -1,7 +1,8 @@
 
-mendhak's Signal Sticker Pack v9
+mendhak's Reaction Memes Sticker Pack v11
 
-v9: https://signal.art/addstickers/#pack_id=143047bd981f147eea35b5acbc2691fa&pack_key=d8ef2895f2a5fb9e3616d8d5005e09649dadfd1350bcf849728ed4aa1db3d571
+v11: https://signal.art/addstickers/#pack_id=604d12246e3d86252a90e3dbb5eec468&pack_key=c5e92c981fc187c7b2c82cb1d819448afee058de28432c658e7170edda33cf68
+
 
 
 
